@@ -9,7 +9,7 @@ export default function Home({ articles, trending }) {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Telenews</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
